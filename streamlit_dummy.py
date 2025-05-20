@@ -7,7 +7,7 @@
 from collections import Counter
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+# import plotly.express as px
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
