@@ -1,7 +1,7 @@
 collections
 streamline
 pandas
-plotly
+plotly.express
 Transformers
 worcloud
 matplotlib
